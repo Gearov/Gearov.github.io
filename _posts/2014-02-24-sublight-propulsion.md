@@ -3,9 +3,10 @@ layout: post
 title: Sublight Propulsion
 permalink: Sublight Propulsion
 tags: [opinion, frontier]
+excerpt_separator: <!--more-->
 ---
 There’s two broad ways to think about how to obtain sublight travel. The first is the obvious way that humanity has been using since we first aimed for the stars - reaction drives. Basically, you have your rocket, and you throw some mass in a direction. In a frictionless environment with no other forces involved, your rocket must travel in a direction opposite that of where you threw your mass. Basically a long rewording of the Newton law that every action must have an equal and opposite reaction. Conveniently, there are many ways to achieve this goal. Rockets, ion engines, and photon engines.
-
+<!--more-->
 Inconveniently, reaction thrusters require reaction mass. Changing what direction you are going in requires even more mass. Creating an acceleration requires mass, and then reversing that acceleration when you get to where you’re going requires even more mass. Eventually, if you want to go any distance in a reasonable amount of time, you will wind up with a ship that is almost entirely reaction mass. Those reaction thrusters which aren’t, such as photon drives, instead have the problem of requiring staggering amounts of power. Wikipedia tells me it requires about 300 MW to produce a newton of thrust from a photon drive. For comparison, a Nimitz class carrier carries two 550 MW reactors to truck around the ocean in. One newton is about .2 pounds force undergoing acceleration by Earth gravity.
 
 Not exactly the kind of acceleration one should get excited about.

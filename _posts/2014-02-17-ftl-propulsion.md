@@ -3,9 +3,10 @@ layout: post
 title: FTL Propulsion
 permalink: FTL Propulsion
 tags: [opinion, frontier]
+excerpt_separator: <!--more-->
 ---
 As a space opera setting, Frontier needs to have the tools available for its wayward characters to traverse the stars reasonably freely. After all, one of the themes is exploring strange new worlds, which isn’t going to mean much if we can’t get our characters to those strange new worlds in question! However, here we hit a snag, depending on how ‘hard’ we want the science in our setting to be. For those who don’t know, ‘hardness’ in a science fiction setting refers to how scientifically plausible it is. Settings which stick to slight iterations on current technology and use rocket propulsion for space travel are considered to be ‘harder’ than settings which hand wave away gross details of amazing teleportation and feats of incredible engineering. A TVTropes entry (link) goes into more detail than I will here. For those who went and read that, though ( sorry for the time sink! I’m sure you’ll escape TVTropes eventually! ), the aim for Frontier is to try for a three, be happy to settle for a two, and avoid a one on the hardness scale that TVTropes is using.
-
+<!--more-->
 As a side-note, I actually am not pursuing hardness for the sake of some level of scientific purity. As a budding engineer type, I appreciate science and its applications, and I do keep up on new discoveries in many fields. I am also not anti-science, by any stretch of the imagination, and I recognize it as a useful tool to help humanity interpret new data and make progress in our search for knowledge. However, Frontier is a setting for telling stories, and I will bend the laws of physics to get to my goals for the setting. So why bother with hardness? I feel that it helps build an internally self-consistent setting to set rules, and to start by trying to derive them from already existing rules. So going forward, I will try to break as few rules as possible on the path to telling my stories.
 But wait! The title of this week’s post in propulsion. What does that have to do science fiction ‘hardness’? Well, like I said to start with, my space opera setting needs a way to deliver its characters to strange, new worlds. And so we run into problems with the hardness scale, namely thus:
 

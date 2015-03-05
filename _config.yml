@@ -19,6 +19,7 @@ paginate:         5
 baseurl:          /
 author:
   name:           gearov
+excerpt_separator: <!--more-->
 
 # System
 timezone:         US/Pacific
