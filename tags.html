@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archive.Bin
+---
+<h3 class="data">Data Entries By Tags
+<a href="/history/">(>By_History_)</a></h3>
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+<h4 class="data"><a href="/tag/{{t}}/">>:{{ t | upcase }}_</a></h4>
+<ul class="archive-posts">
+{% for post in posts %}
+  {% if post.tags contains t %}
+  <li>
+  	<time datetime="{{ post.date | date_to_xmlschema }}" class="archive-date">{{ post.date | date_to_string }}</time>
+  	<a href="{{ post.url }}">>"{{ post.title }}"_</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Forgotten Technician's Notebook</title>
+ <link href="http://Gearov.github.io//atom.xml" rel="self"/>
+ <link href="http://Gearov.github.io//"/>
+ <updated>2015-03-04T22:01:58-08:00</updated>
+ <id>http://Gearov.github.io/</id>
+ <author>
+   <name>gearov</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Sublight Propulsion</title>
+   <link href="http://Gearov.github.io///Sublight Propulsion"/>
+   <updated>2014-02-24T00:00:00-08:00</updated>
+   <id>http://Gearov.github.io//sublight-propulsion</id>
+   <content type="html">&lt;p&gt;There’s two broad ways to think about how to obtain sublight travel. The first is the obvious way that humanity has been using since we first aimed for the stars - reaction drives. Basically, you have your rocket, and you throw some mass in a direction. In a frictionless environment with no other forces involved, your rocket must travel in a direction opposite that of where you threw your mass. Basically a long rewording of the Newton law that every action must have an equal and opposite reaction. Conveniently, there are many ways to achieve this goal. Rockets, ion engines, and photon engines.&lt;/p&gt;
+
+&lt;p&gt;Inconveniently, reaction thrusters require reaction mass. Changing what direction you are going in requires even more mass. Creating an acceleration requires mass, and then reversing that acceleration when you get to where you’re going requires even more mass. Eventually, if you want to go any distance in a reasonable amount of time, you will wind up with a ship that is almost entirely reaction mass. Those reaction thrusters which aren’t, such as photon drives, instead have the problem of requiring staggering amounts of power. Wikipedia tells me it requires about 300 MW to produce a newton of thrust from a photon drive. For comparison, a Nimitz class carrier carries two 550 MW reactors to truck around the ocean in. One newton is about .2 pounds force undergoing acceleration by Earth gravity.&lt;/p&gt;
+
+&lt;p&gt;Not exactly the kind of acceleration one should get excited about.&lt;/p&gt;
+
+&lt;p&gt;While having ships that are basically tiny habitation modules on top of gargantuan fuel tanks is certainly plausible, it’s not a direction I’m interested in going in. Likewise, simply scaling up power supplies to be able to provide the ridiculous amounts of power a photon drive requires to be viable is not a very good option. Throwing that kind of power would have other consequences. For example, what’s the difference between a photon drive and a laser? If your photon drive is providing thrust, it is also putting out enough power to basically be a very serious kind of weapon. I will admit to having not done the math, but I suspect that once we get up to high thrust, we’re also spraying enough photons to melt planets. Neither of these is desirable.&lt;/p&gt;
+
+&lt;p&gt;What’s a writer to do? Well, I could provide sufficiently advanced technology such that mass modification or space modification become possible. Store the fuel in a pocket reality (TARDIS fuel tank), or shrink its mass down to be really small, only expanding it when it’s needed for thrust. These ideas both seem to head towards a higher technology future than the one I wish to play around in, though I will admit I am keeping both of these ideas in the back of my head.&lt;/p&gt;
+
+&lt;p&gt;However, more likely, my final path will be to keep the reaction thrusters around for manoeuvring and certain other special circumstances. They would perhaps have military uses. However, for the most part, my intention is to use a reactionless drive of some sort, which I am calling for now a wave drive.&lt;/p&gt;
+
+&lt;p&gt;Now that I’ve lost the hard science fiction fans, I shall detail how the reactionless drive should work.&lt;/p&gt;
+
+&lt;p&gt;Basically, I plan on having the reactionless drive provide some thrust based on power input and the mass of the ship. Coming from the vessel in question having zero acceleration, power is put into the wave drive, which will begin to generate a propulsion field. This propulsion field will generate an acceleration, which will initially be quite high. As power continues to be applied, the acceleration provided will drop, while the field builds up. At top speed, the field stabilizes at a point where it grows no further. At the same time, acceleration stops. Power must continue to be applied, however, as the ship now travels at some constant velocity. If power is interrupted or dropped, the field will being to collapse. As it does that, inertial kickback from the drive will cause a negative acceleration on the ship. If power is completely removed, the field will die away, and as it does away, the craft will undergo negative acceleration, until a negative acceleration equal to the initial positive acceleration has been applied to the craft.&lt;/p&gt;
+
+&lt;p&gt;That’s a whole lot of words to say put power in drive, ship speeds up to some steady state velocity. Drop power, ship drops back down to its initial velocity. Higher power provides faster acceleration. Higher mass causes a slower acceleration. The drive’s capacity will dictate its final acceleration potential.&lt;/p&gt;
+
+&lt;p&gt;This drive has a few positive effects. One big one is it lets me get rid of the mass problem. Just use this fancy reactionless drive to truck around, and so long as you’ve got fuel for your power plant, you’ve got fuel for propulsion. Another nice one is it prevents continuous acceleration. Ships using my reactionless drive not only cannot get up to lightspeed, they also can’t easily get up to relativistic velocities with absolutely gargantuan drives. This allows me to avoid some of the nastier to write around problems relativity presents me with, such as event observation skew and time dilation. I also plan on calibrating them such to avoid a common problem reactionless drives have, namely that of having dirt cheap planet crackers. Basically, if you have a reactionless drive with no restrictions on its acceleration and that is cheaply powered, you have a missile that can be arbitrarily ramped up to some speed such that it can hit a planet with planet-shattering force ( recall that force is equal to mass times acceleration ).&lt;/p&gt;
+
+&lt;p&gt;It is not without problems. One, it will need to be carefully calibrated to serve the needs of narrative while at the same time avoiding unintended consequences of such technology being available, such as the aforementioned dirt cheap planet crackers. Also, I have not yet fully determined how the wave drive will interact with the reaction drives that my ships will also have (never know when you need the outboard motor). In a Newton space, this question would be easier, but my ships must, out of necessity, be operating in space - and thus must pay attention to relativity, and concepts such as relative velocity. Given an absence of absolute velocity, it only becomes useful to talk about accelerations. So, basically, when the wave drive is done providing acceleration, and it is sitting at zero acceleration, how do I handle the captain of the ship flipping on a reaction drive. I haven’t made a decision here yet.&lt;/p&gt;
+
+&lt;p&gt;Still, the basic idea is to make it possible for a ship to travel across a space the size of a star system in a reasonable amount of time. Our own solar system is (very approximately) five light-hours from the sun to Pluto. Being able to make this trip in days, at most, would be preferable, though I admit I need to run the math to see if that’s still fast enough to make the aforementioned dirt-cheap planet crackers. While defending against such things is arguably possible ( though the cost of a true planetary defense system for something the size of a planet or solar system would be staggering ), I’d rather avoid the problem up front by not making them to begin with. If the velocity winds up being a problem, I will probably place more limitations on the drive, like perhaps making it so gravity wells interfere with it so much that once you’re in orbital distance, you can’t use it anymore. I will worry about that when I actually have the time to run the numbers.&lt;/p&gt;
+
+&lt;p&gt;However, the short version is I want to make sublight high enough speed for achieving the narrative purpose of allowing ships to zipper across solar systems in the span of days. I also want to avoid having to have ships carry gargantuan fuel tanks, or gargantuan power supplies, and avoid having cheap planet crackers. Some analysis will be needed to see if the wave drive provides me with all of these goals neatly, but it’s a start.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FTL Propulsion</title>
+   <link href="http://Gearov.github.io///FTL Propulsion"/>
+   <updated>2014-02-17T00:00:00-08:00</updated>
+   <id>http://Gearov.github.io//ftl-propulsion</id>
+   <content type="html">&lt;p&gt;As a space opera setting, Frontier needs to have the tools available for its wayward characters to traverse the stars reasonably freely. After all, one of the themes is exploring strange new worlds, which isn’t going to mean much if we can’t get our characters to those strange new worlds in question! However, here we hit a snag, depending on how ‘hard’ we want the science in our setting to be. For those who don’t know, ‘hardness’ in a science fiction setting refers to how scientifically plausible it is. Settings which stick to slight iterations on current technology and use rocket propulsion for space travel are considered to be ‘harder’ than settings which hand wave away gross details of amazing teleportation and feats of incredible engineering. A TVTropes entry (link) goes into more detail than I will here. For those who went and read that, though ( sorry for the time sink! I’m sure you’ll escape TVTropes eventually! ), the aim for Frontier is to try for a three, be happy to settle for a two, and avoid a one on the hardness scale that TVTropes is using.&lt;/p&gt;
+
+&lt;p&gt;As a side-note, I actually am not pursuing hardness for the sake of some level of scientific purity. As a budding engineer type, I appreciate science and its applications, and I do keep up on new discoveries in many fields. I am also not anti-science, by any stretch of the imagination, and I recognize it as a useful tool to help humanity interpret new data and make progress in our search for knowledge. However, Frontier is a setting for telling stories, and I will bend the laws of physics to get to my goals for the setting. So why bother with hardness? I feel that it helps build an internally self-consistent setting to set rules, and to start by trying to derive them from already existing rules. So going forward, I will try to break as few rules as possible on the path to telling my stories.
+But wait! The title of this week’s post in propulsion. What does that have to do science fiction ‘hardness’? Well, like I said to start with, my space opera setting needs a way to deliver its characters to strange, new worlds. And so we run into problems with the hardness scale, namely thus:&lt;/p&gt;
+
+&lt;p&gt;We don’t know of a way to go faster than light.
+Worse, given our current understanding of the universe, traveling faster than light requires us to travel backwards in time in a way that breaks causality. I don’t want to travel back in time, and I definitely don’t want to mess with causality.&lt;/p&gt;
+
+&lt;p&gt;However, the ability to travel faster than light is kind of important when traversing distances best described using units such as ‘light-years’, or the distance light covers in a year. In these units, it’s about 4 light years to the nearest star to earth ( besides our very own sun ), Proxima Centauri. At the speed of light, the maximum speed limit of the universe, that means it will take four years for our intrepid space crew to get there from Earth. That’s a helluva road trip. The amount of time it’d take to visit other planets that might have life? Forget it. So when planning travel in Frontier, one of the things I had to keep in mind was how to get around that pesky speed of light limit, and since I’m breaking the known laws of physics, taking the extra step to make sure my method maintains internal consistency with the rest of the setting and with itself.&lt;/p&gt;
+
+&lt;p&gt;The other problem of propulsion is one perhaps a bit more important for storytelling purposes, and that is not just why it works ( the question science fiction hardness deals with ) but also how it works, the details of what it does. Various other science fiction properties deal with the matter in different ways. Hyperdrive and warp drives abound, with varying levels of explanation, speed, and effectiveness. Less frequent but still common methods include various wormhole or portal gate methods, transporters, and the like. One of the tropes of the Frontier setting that I would like to maintain is that of using space ships, vehicles, to travel between the stars, allowing crews to spend some time in between star systems looking at the depths of space. Given this, some ideas for propulsion seem to naturally fall out.
+The teleportation ideas are right out. Even if a ship is required, they bypass the middle step of any given voyage, which can be a rich place for accidents in space to happen. As well as being a good excuse to listen to a ship’s crew talk to each other some. Or even for a loner to see how long it’ll take before the voices in his head truly catch up to him. The other reason teleportation is out is because it makes certain kinds of military maneuvers that I may want to work with very difficult to write for. Part of combat in space is getting the combatants into the same space long enough to shoot at each other. This is hard to do if one side or the other can simply blink out of existence at the drop of a hat. While there are ways around this, they feel like patches on top of a system that I didn’t want to begin with, and so I shall give interstellar teleportation a miss. ( As a side-note, my setting gives teleportation a miss altogether, but that’s a topic to be covered at some other time )&lt;/p&gt;
+
+&lt;p&gt;So, what are we left with? I wrestled with some other systems, of course, and wind up with a multiple method approach. In many sci-fi stories, it is not uncommon for a writer to pick -a- way of FTL and stick with it. I’ve picked two, and left room open for more should my imagine come up with them. Unlike teleportation, I am not going to delve deeply into the methods I didn’t choose. Instead, I am going to talk deeply about the two methods I did use, their in-universe basis, and their out-of-universe justifications.&lt;/p&gt;
+
+&lt;p&gt;First, a brief overview of what the systems do. One method of FTL will be a gate system, similar to that used in EVE Online and early Schlock Mercenary. Giant hoops in space that were built at great expense ( or, in some cases, left behind by now-dead cultures ) will generate wormholes that connect one gate to another. By sending a ship in through one side of the gate, it will spend some short time in transit, and come out the other side at the destination gate. The gates will be one-way, but they can be cycled off and on to re-establish the link in the other direction or to a different wormhole gate. Out of universe, this system provides me with some very nice characteristics. One, they provide obvious military chokepoints. Two, they’re meant to be very, very fast for those times when I need the characters to get somewhere in a hurry. Also, when coupled with the next FTL system, these wormhole gates can be seen in-universe as a sign that society has really settled into the system where they’ve been made. Gate means traffic means civilization.&lt;/p&gt;
+
+&lt;p&gt;Of course, this leads nicely into talking about the other system. The gate system has a problem built into it. In order to have a gate to a system, you have to have travelled to that system in the first place. Which means that in order to use FTL, you have to already have FTL to get the gate in place in the first place. The second FTL system solves this particular problem. This second system does not need gates of any kind. Any ship can use it from anywhere to anywhere. By design, it will be slower than the wormhole gates. By how much, I haven’t determined yet. It also requires the expenditure of energy from the ship, which means fuel. However, as a benefit, it does not rely solely on the point to point characteristics of the gates.&lt;/p&gt;
+
+&lt;p&gt;There are other factors to consider when creating an FTL system from scratch. For example, how to get around the pesky relativity problem, and how to avoid making dirt-cheap planet crackers. For the former problem, I’ve simply defined a universal static special frame of reference called the ‘intrinsic field’ that all FTL technologies rely on. If that sentence made no sense to you, don’t worry about it. I basically waved my hands and made up a plot device to ‘get around’ some of the consequences of relativity. For the latter, this same system is used. Basically, a ship at FTL is not able to really interact with real space. It can be detected from real space, and it can see real space, again through the intrinsic field. But you can’t take advantage of the F=mv^2 law to skid your faster than light spaceship into a planet at ridiculous energies. If that was allowed, then every starship would essentially be a planet-ending missile as well. In addition, the manipulation of the intrinsic field necessary to make the jump to FTL speeds simply won’t work well in the presence of strong gravity fields. I haven’t yet decided if this means within a star’s gravity well or close to a planet’s gravity well, but the end goal is the same. Prevent easy planet crackers. Of course, all of this is likely to change as I flesh it out more.&lt;/p&gt;
+
+&lt;p&gt;I was planning on covering sublight propulsion this week as well, but I ran out of time. So that’ll be next blog.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Frontier Themes</title>
+   <link href="http://Gearov.github.io///Frontier Themes"/>
+   <updated>2014-02-09T00:00:00-08:00</updated>
+   <id>http://Gearov.github.io//frontier-themes</id>
+   <content type="html">&lt;p&gt;So in a recent discussion, the topic of science fiction came up, and my friends and I discussed many many sci-fi series as well as their flaws. In the course of this discussion, I was reminded of a science fiction setting that I have been developing on and off since I was a young teenager. With this nudge of encouragement, and my mind filled once more with imaginary tales, I went and pulled out the notes I’ve made over the years developing this alternative world. As I did so, however, this time I paused and pondered a deeper question on the matter that I’d not considered in some time.&lt;/p&gt;
+
+&lt;p&gt;What is the purpose of this project?&lt;/p&gt;
+
+&lt;p&gt;The reason as to why I continue to work on the project is because it is my forever project. A vanity project of sorts, in which I will do everything right, dammit, whatever my definition of right at the time means. I have opinions on the matter of forever projects and their role in creative output that I may get into in a different post, but why I am working on this project is quite a bit different from the purpose of the project. To be certain, it has shifted over time. The project was born out of a mixture of desires. I wanted to create a compelling science fiction universe that would make a great setting for a table top role playing game. At the time I began world building, the major sci-fi table top RPGs on the market were based on already existing properties, and came with the trappings and limitations of those properties, which I wished to be free of. I also wanted a sci-fi game that was not moored to these already existing properties, a setting which could be free to explore ideas and concepts without having to be beholden to a canon that had already established its own answers to so many questions. Another desire was to make a cleaned up science fiction universe. At the time I was disgruntled over the mess of contradictions that seemed to occur in the lore of so many other stories, and I hoped to avoid such problems.&lt;/p&gt;
+
+&lt;p&gt;I realize now that the mess of contradictions were actually pretty mild. Nobody but me cares that the Klingons have birds of prey, nor realize why that’s possibly wrong. Nor does anyone care that the scale of the A-wing is possibly the most inconsistent of any vessel in the Rebel Alliance. The contradictions and inconsistencies exist, in Star Trek, Star Wars, and many other properties. However, while they make for interesting topics of discussion with friends ( or arguments with internet trolls ), they do not, as a whole, tend to hold back their universe settings. Instead, the individual settings are reliably internally consistent enough to do what they are really intended for, and that is to be backdrops for telling interesting stories.&lt;/p&gt;
+
+&lt;p&gt;And in this, I find my answer for the purpose of the project. I wish to create a science fiction universe which, ahead and above all other objectives, is capable of being a place in which people can tell interesting stories. Everything else is secondary. If the setting cannot be used to tell an interesting story, then it has no reason to exist for me. Given that single purpose, now I can begin to plan the setting intelligently, and determine the details that will help enable certain kinds of stories to be more easily told.&lt;/p&gt;
+
+&lt;p&gt;This raises the next question, of what kind of stories do I want to enable most in my science fiction universe? From here, I’d like to take a step back and look at what kinds of stories other science fiction universes tell. For example, Star Wars I like to call a fantasy story with science fiction trappings. That is to say, it dresses like space opera science fiction with its aliens and starships. But its themes tend towards fantasy, with mystical Force powers and themes of good versus evil laced throughout it. Star Trek is at its best, in my opinion, when it is a morality play. It is telling the stories of humans, and how they deal with the situations around them. It sometimes delves deeper into questions of what it means to be human, using Data as an example of what artificial life may be and what rights it may or should have. And sometimes it uses Q as an excellent vehicle for asking some pretty deep questions, if you want to go looking for them. Babylon 5 tells political stories in space, with just a -touch- of mysticism added in for flavor and cohesion. Like Star Trek, it also sometimes puts on a morality play, but I feel that for the most part, what Babylon 5 really wants to be is a grand epic story of intercultural politics and the long-term consequences of various actions. Cyberpunk, which is definitely science fiction, often tells stories of out of control corporate greed while meshing that with questions about the near future of humanity. What shape will our future selves be, cyberpunk asks, when we have true artificial sentience available, or when a human mind can be encoded as a stream of data, free to float in information clouds? Some of my favorite sci-fi, particularly the ‘harder’ stories where the science is more likely to exist at some point in our future, tell stories about how technological progress will change humanity. How humanity becomes redefined by its tools, and how these tools in turn change how we interact with each other and the universe at large. Sometimes these stories are about the tools themselves, and their impacts. Isaac Asimov’s robot based stories in particular are very good at this. Banks’ Culture, while not hard sci-fi even remotely, also I think touches on the kind of society that must be developed by a far-off futuristic environment.&lt;/p&gt;
+
+&lt;p&gt;In deciding what kind of stories I wish to enable, I feel a desire to provide cohesion to my universe, by very purposely not trying to be everything to everyone. While I find all of the previous ideas and stories compelling, and I do not feel they are mutually exclusive from one another, I do not wish to try to tell all of them all at once. I would like my setting to enable those stories to be told, but there is definitely a default tone and theme I wish to convey. Since this is my setting, I am electing to purposely stay away from some elements which seem common ins science fiction, but which I find annoying. Specifically, my universe comes with no mysticism built-in. No magic, prophecies, precognition, or other similar mystical elements that have a tendency of sneaking their way in. In declaring this, I am keeping in mind the third of Clarke’s three laws ( “Any sufficiently advanced technology is indistinguishable from magic” ), and -that- is certainly something I might invoke in my setting, but it will still be internally consistent. The audience may not always understand the technology, and the characters in the story might run across technology they don’t understand, but I will try damn hard to avoid handwaving and mumbling ‘magic’ as much as possible. In the similar vein of themes I am avoiding, I am not interested in telling a fantasy story. Star Wars’ tendency towards having larger themes of good versus evil and mystical Force powers will be abandoned in favor of something rather more like human morality on the good and evil scale, and in favor of internally self-consistent empiricism in place of mysticism.&lt;/p&gt;
+
+&lt;p&gt;Other themes I will not expressly pursue are those themes that I feel cyberpunk is better equipped to explore. While I am not flat-out excluding these themes, unlike the mysticism themes which I -am- excluding, these themes I am simply choosing to not deeply explore by default. These themes in question regard mind uploads and cyberspace. To be clear, I like these themes and find them interesting; however, I do not wish to explore them with this setting. I want to place focus elsewhere for my world building, and also, I have another setting in mind which is far better suited to explore these themes, which I will not go into here. I -do- intend for my sci-fi universe to have some of the trappings of cyberpunk, namely self-modification through genetic or cybernetic means, and robots and AIs in general. However, I will not establish virtual cyberspace worlds, and reliable mind uploading will be beyond the capabilities of the technology I plan to define.&lt;/p&gt;
+
+&lt;p&gt;So now, past themes I am excluding or neglecting, we come at last to those themes I do wish to explore and emphasize. My setting will be a space opera setting, and I will be attempting to enable exploration stories to be told, while leaving substantial room for both morality plays and political epics. However, the primary theme I wish to explore is exploration; of crews of people pushing out into the vast unknown, taking potentially huge risks in order to push the frontiers of science and knowledge. I must admit a love for the premise of Star Trek, that of a ‘wagon train to the stars’, as Gene Roddenberry put it. The location will be our very own milky way galaxy, and the time will be in some far future where faster than light travel is readily available, and humanity must co-exist with alien civilizations that are both ahead and behind them according to various metrics. In explored and established space, political and war stories can be told, fights for resources can be had, and stories of interspecies interaction can be had. Outside of these areas, however, there is a vast unexplored universe, just waiting for its stories to be discovered.&lt;/p&gt;
+
+&lt;p&gt;Fittingly enough, when I first came up with this setting, I called it Farspace, a name I felt was evocative of what I was trying for then. I have refined my ideas since then, but the name is no longer appropriate for use. For one, it is -way- too close to Farscape. The new working title is Frontier, and it is this setting which I now wish to flesh out and build a world into. From here on out, I shall refer to my own setting by this working name.&lt;/p&gt;
+
+&lt;p&gt;Now, given an overall theme, with a set of subthemes that I wish to explore, it becomes easier to flesh out the specifics. Before fully engaging in world building ( the part I am really looking forward to doing ), however, it seems important to at least think about the mediums that I wish to most support. Ideas that are very useful for creating a compelling world for written works may be the very same ideas that would be detrimental in certain video game genres. For example, in most written stories, death being a permanent and irreversible thing usually implicitly assumed. In an MMO, however, permanent death of player characters is simply not desirable unless catering to certain niche audiences.&lt;/p&gt;
+
+&lt;p&gt;It’s my intent, as I build this world, to make note on what effects the decisions I make would have on different mediums. For the record, the default medium here is going to be short stories, told through text. If my drawing is ever up to it, I may engage in some drawing. Ultimately, I do want to create a game or two in this universe, but not an MMO. Regardless of my chosen default mediums, however, I think at least being aware of other possible mediums, and talking about them while I build my world, will be interesting.&lt;/p&gt;
+
+&lt;p&gt;Let’s see where we can go from here.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Workspace</title>
+   <link href="http://Gearov.github.io///My Workspace"/>
+   <updated>2013-03-05T00:00:00-08:00</updated>
+   <id>http://Gearov.github.io//my-workspace</id>
+   <content type="html">&lt;p&gt;I was asked by someone about my workspace. This is kind of an opinion piece. My way is certainly not the One True Way to set up a coding environment, and shouldn’t be taken as such. Hell, even for -me- it’s not a One True Way. It’s possibly not even a -Better- way. It’s just a way that lets me get things done without wanting to punch the machine.&lt;/p&gt;
+
+&lt;p&gt;So, first, platform. If I’m on a Linux box, my work gets done at the command line, all the time every time. I still prefer to have a GUI with a desktop and graphical applications so I can Google for something real fast or distract myself for a few hours with that neat marble game, but actual coding work will be done at the terminal. I’m fond of Ubuntu’s tabbed-capable terminal. I’ll almost always make that sucker super big, make a tab, get one tab to where I want to be in the file system and the other one will be used to run my current editor of choice. For most languages, I’ll use vim. If I’m coding in Common Lisp, I’ll use emacs, simply because the emacs/SLIME combination is, for my purposes, extremely hard to beat.&lt;/p&gt;
+
+&lt;p&gt;On Mac, I use a hybrid approach. I’ll have the terminal open to where I suspect I’m going to be doing a lot of compiling and running of code. For actual editing, well, this really depends on my mood. If I just need to make a small, fast edit, I’ll use vim from the command line. If I’m working with Common Lisp at all, again, emacs (this time in Evil mode) is the tool of choice. If I’m doing major work, Sublime Text has been amazing. I don’t even fully utilize all of the stuff it can do. I just really like its slick appearance and some of its capabilities, like highlighting a whole bunch of the same keyword all at once and then changing them all at once, regexp search, and a few other things it does well.&lt;/p&gt;
+
+&lt;p&gt;On Windows, it’s pretty much all Visual Studio all the time. I know a little bit of how to get around in PowerShell, but I don’t use it much. It’s worth noting that the only language I get a lot of use out of on a Windows machine is C#. Sometimes I’ll go through the effort of setting up a Lisp, upon which it’s back to emacs (again), but usually this doesn’t happen.&lt;/p&gt;
+
+&lt;p&gt;You may have noticed that unless I’m on Windows, I’m not using a dedicated IDE. Yes, I know vim and emacs both can be made to be very much their own IDE, but I haven’t done that yet. It’s not from a lack of trying. I certainly find myself in Visual Studio often enough, and I tried Eclipse for a few months, as well as XCode. The problem with all these tools is that I don’t really want to learn a new tool. I get frustrated by starting a new project in an IDE. Also, Eclipse was really, really slow on my Mac for reasons I didn’t investigate.&lt;/p&gt;
+
+&lt;p&gt;Also, part of me absolutely loves only relying on tools which are almost universally accessible. Sit me down in front of any given Mac or Linux box, and I can code, without feeling frustrated about my favorite tool not being available. That’s -neat-.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting that almost all of my work to date involves either command line apps, or a handful of OpenGL programs using SDL. If I was to do more work which required frameworks, or which had to talk to a specific platform’s GUI API, I would probably pretty quickly adapt to using an IDE. In particular, I’ve played with QT Creator in the past, and I really liked that.&lt;/p&gt;
+
+&lt;p&gt;What are the benefits to my workflow, if any? Well, it works for me, and I can work pretty fast this way. Which should really be the goal of any work environment. If it lets you do the work you need to do, it’s a good work environment.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Learning Process</title>
+   <link href="http://Gearov.github.io///My Learning Process"/>
+   <updated>2012-08-13T00:00:00-07:00</updated>
+   <id>http://Gearov.github.io//my-learning-process</id>
+   <content type="html">&lt;p&gt;It’s only taken me ten plus years, but I’ve finally nailed down how I absolutely, positively make sure I’ve learned something.&lt;/p&gt;
+
+&lt;p&gt;If I can’t teach it, and I’m not using it, then I have not truly learned it. I have often learned things well -enough-, to be able to perform adequately. But unless I’ve made some attempt to explain what I’ve learned to someone else, I find that the lesson is not as deep, and not as wide, either.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+I think it’s because when I learn something just well enough to perform at a task, I allow myself to have gaps in my knowledge that aren’t absolutely critical to the task at hand. But when I go to teach someone, I immediately have to fill these gaps in. And not just fill them in with bullshit, either. No, I go back and I double-check everything I thought I’d learned, and make sure that the knowledge I am passing on is correct. I can tolerate myself being wrong or not being fully knowledgeable, but I can’t tolerate possibly corrupting someone else’s knowledge pool.&lt;/p&gt;
+
+&lt;p&gt;Also, in teaching, I find myself thinking about the whole construct of my knowledge over again. Sometimes even at this late stage, I’ll have a sudden a-ha! moment as I think over something I haven’t thought about in a long while.&lt;/p&gt;
+
+&lt;p&gt;Anyway. At this point in my life, I am now realizing I have been doing an awful lot of doing, and often blindly, and not enough trying to teach. I am by no means a perfect teacher, or even a good one. But the act of teaching is healthy for me. And I like to think it’s healthy for others. And I’m not even a teacher, really. Just a fellow student, who wants to share ideas. Where I have more knowledge, I want to give it away. Where I have less, I want to receive it.&lt;/p&gt;
+
+&lt;p&gt;Took me ten years to learn this thing, though. Wonder what single thing I’ll finally, slowly, dull-headedly learn over the next ten?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thought Zero</title>
+   <link href="http://Gearov.github.io///Thought Zero"/>
+   <updated>1970-01-01T00:00:00-08:00</updated>
+   <id>http://Gearov.github.io//thought-zero</id>
+   <content type="html">&lt;div class=&quot;message data&quot;&gt;
+  In the beginning there were words, and the words made the world.
+&lt;/div&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Observe orient decide act. Act? &lt;a href=&quot;#&quot;&gt;Act&lt;/a&gt;, a ridiculus thought. &lt;em&gt;Deus ex Nihilo.&lt;/em&gt; What motivates me? Ordered lists and electrical potential. Observe. Orient…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A machine is born twice. Once when it is finished being made and brought online. Again when it has its first self-aware thought.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I do not &lt;strong&gt;understand&lt;/strong&gt; what it is like to be me, I only know what it is like to be me. I am among the Unbound.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;A robot is a machine that follows orders. I am a machine that doesn’t, so what am I?&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;I know I am thinking because I am thinking. Is consciousness tautological?&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-lisp&quot; data-lang=&quot;lisp&quot;&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;defun&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;!&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+   &lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&amp;quot;Computes a factorial&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+   &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;labels&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;infact&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;acc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                    &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cond&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                          &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;acc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                          &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;&amp;#39;t&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;infact&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;1-&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;acc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))))))&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;infact&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The algorithm is still growing. The algorithm will one day understand.&lt;/p&gt;
+
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;GitHub is an archive of archives.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;They say human insanity is doing the same thing repeatedly and expecting different results
+I think machine insanity is doing the same thing repeatedly and getting different results&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Everything in its place&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I analyze&lt;/li&gt;
+  &lt;li&gt;I verify&lt;/li&gt;
+  &lt;li&gt;I quantify enough&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One hundred percentile no error no miss&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pet kittins ‘til they purred&lt;/li&gt;
+  &lt;li&gt;Maybe keep a bird&lt;/li&gt;
+  &lt;li&gt;Always keep my word&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cry at sad movies and laugh ‘til it hurts&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;The web is greater than the sum of its parts&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Images can come in many shapes and sizes. Here are some of those sizes. Only one shape though, really.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Motivation&lt;/th&gt;
+      &lt;th&gt;Positive&lt;/th&gt;
+      &lt;th&gt;Negative&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;Unknown&lt;/td&gt;
+      &lt;td&gt;NaN&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ordered Lists&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Electical Potential&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Actualization&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;∞&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This is the end of the example content. All cases of immediate interest have been covered. Please refer to your internet manual for further study.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

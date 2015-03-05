@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1 class="data">Archive.Bin_</h1>
+<h3 class="data">Data Entries By Tag :{{ page.tag }}</h3>
+<div>
+	<ul class="archive-posts">
+      {% if site.tags[page.tag] %}
+         {% for post in site.tags[page.tag] %}
+         	<li><time datetime="{{ post.date | date_to_xmlschema }}" class="archive-date">{{ post.date | date_to_string }}</time>
+            <a href="{{ post.url }}">>"{{ post.title }}"_</a></li>
+         {% endfor %}
+      {% else %}
+         <p>There are no posts for this tag.</p>
+      {% endif %}
+   </ul>
+</div>

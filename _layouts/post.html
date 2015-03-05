@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="page-date">
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time>
+  </div>
+    <!-- uncomment this if tag question becomes a problem
+    {% if page.tags contains "question" %}
+      <p class="warning">Reminder: Questions are answered in-character and should not be taken seriously.</p>
+    {% endif %} -->
+  {{ content }}
+</article>
+<aside class="related">
+
+<div class="metawrapper">
+  <time datetime="{{ site.time | date_to_xmlschema }}">Retrieved {{ site.time | date_to_string }}</time>
+    <ul class="tags">
+      {% if page.tags.size > 0 %}
+        <li class="metadata">METADATA:</li>
+      {% else %}
+        <li class="metadata error">NO METADATA</li>
+      {% endif %}
+      {% for tag in page.tags %}
+        <li class="metadata"><a class="metadata-link" href="/tag/{{tag}}/">>:{{tag}}_</a></li>
+      {% endfor %}
+    </ul>
+</div>
+  <h2 class="data">Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3 class="data">
+          <time datetime="{{ post.date | date_to_xmlschema}}" class="related-date">{{ post.date | date_to_string }}</time>
+          <a href="{{ post.url }}">
+          >"{{ post.title }}"_</a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>

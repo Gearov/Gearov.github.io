@@ -1,0 +1,14 @@
+---
+layout: page
+title: Archive.Bin
+---
+<h3 class="data">Data Entries By History
+<a href="/tags/">(>By_Tags_)</a></h3>
+<ul class="archive-posts">
+{% for post in site.posts %}
+	<li>
+		<time datetime="{{ post.date | date_to_xmlschema}}" class="archive-date">{{ post.date | date_to_string }}</time>
+		<a href="{{ post.url }}">>"{{ post.title }}"_</a>
+	</li>
+{% endfor %}
+</ul>

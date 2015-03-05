@@ -1,0 +1,25 @@
+# Permalinks
+permalink:           pretty
+relative_permalinks: false
+
+# Top matter
+pages_list:
+   About: '/about'
+   Archive: '/history'
+   FAQ: '/faq'
+   Contact: '/contact'
+   Feed: '/atom.xml'
+
+# Setup
+highlighter:      pygments
+title:            The Forgotten Technician's Notebook 
+tagline:          recovered by gearov
+url:              http://Gearov.github.io/
+paginate:         5
+baseurl:          /
+author:
+  name:           gearov
+
+# System
+timezone:         US/Pacific
+encoding:         UTF-8
