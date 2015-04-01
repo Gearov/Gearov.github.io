@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shadowrun Themes
-permlink: Shadowrun Themes
+permalink: Shadowrun Themes
 tags: [opinion, shadowrun]
 excerpt_separator: <!--more-->
 ---
