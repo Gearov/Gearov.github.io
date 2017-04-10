@@ -11,7 +11,7 @@ pages_list:
    Feed: '/atom.xml'
 
 # Setup
-highlighter:      pygments
+highlighter:      rouge
 title:            The Forgotten Technician's Notebook 
 tagline:          recovered by gearov
 url:              http://Gearov.github.io/
